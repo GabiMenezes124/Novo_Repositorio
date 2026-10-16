@@ -1,7 +1,7 @@
 import os # O import 'os' é um sistema de biblioteca acionado dentro da própria linguagem de programação;
 
 # restaurantes = ['Pizza', 'Sushi'] # aqui definimos uma nova váriavel com o intuito de se tornar uma lista pois ela pode armazenar informações do usuario;
-restaurantes = [{'nome':'Espetinho do luiz', 'categoria':'Espetinho','ativo':True}, # aqui definimos um dicionario com valores variados dentro de uma lista (o dicionario permite aplicar registro de um valor ou mais dentro de uma lista de forma organizada.)
+restaurantes = [{'nome':'Espetinho do lui', 'categoria':'Espetinho','ativo':True}, # aqui definimos um dicionario com valores variados dentro de uma lista (o dicionario permite aplicar registro de um valor ou mais dentro de uma lista de forma organizada.)
                 {'nome':'Pizza Hot', 'categoria':'Pizza', 'ativo':False}, # um dicionario pode possuir variados tipos de dados sendo eles: string, inteiro, décimal e booleano.
                 {'nome':'Doces do amor', 'categoria':'Doces', 'ativo':True}
 ]
